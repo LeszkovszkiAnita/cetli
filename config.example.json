@@ -1,0 +1,12 @@
+{
+    "drive_path": "<YOUR_GOOGLE_DRIVE_FOLDER_PATH>",
+    "secret_key": "<YOUR_SECRET_KEY>",
+    "max_age_minutes": 5,
+    "polling_seconds": 10,
+    "startup_grace_seconds": 30,
+    "totp_enabled": false,
+    "totp_secret": "",
+    "totp_valid_window": 6,
+    "report_url": "",
+    "report_token": ""
+}

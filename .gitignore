@@ -1,0 +1,22 @@
+# Configuration with secrets — NEVER commit this!
+config.json
+
+# Local logs
+naplo.txt
+security_log.txt
+
+# Command files
+parancs.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
